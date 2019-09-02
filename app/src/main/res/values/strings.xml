@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="todo_title">ToDo APP - Victor LAGACHE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_add_task">AddTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="add_task_top_title">Create task</string>
+    <string name="create">Create</string>
+    <string name="add_title_error">Title must not be empty</string>
+    <string name="add_description_error">Description must not be empty</string>
+    <string-array name="start_headings">
+        <item>Create Tasks</item>
+        <item>See your planning</item>
+        <item>Get notified</item>
+    </string-array>
+    <string-array name="start_descriptions">
+        <item>Create as many tasks,events or alerts as needed</item>
+        <item>Get notified when you pass close to important spot</item>
+        <item>Get access to your to-do list at any time</item>
+
+    </string-array>
+//menu popup
+    <string name="menu_popup1">Date ASC</string>
+    <string name="menu_popup2">Date DSC</string>
+    <string name="menu_popup3">Priority</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not registered? Sign up now</string>
+    <string name="btn_link_to_login">Already registered? Log in</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="logout">Log out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">Enter your email to sent you password reset instructions.</string>
+    <string name="description">Description</string>
+    <string name="add_task_priority_checkbox">Priority task</string>
+    <string name="tag_hint">Tags...</string>
+    <string name="select_date"> Task end date</string>
+    <string name="select_time">Task end time</string>
+    <string name="place_hint">Pick localization</string>
+    <string name="profile">Profile</string>
+    <string name="user">user</string>
+    <string name="todo">TODO</string>
+    <string name="add_date_error">Choosen date can\'t be before now</string>
+    <string name="select_notification_date">Notification date</string>
+    <string name="select_notification_time">Notification time</string>
+    <string name="Update">UPDATE</string>
+    <string name="Firstname">First name</string>
+    <string name="Lastname">Last name</string>
+    <string name="Age">Age</string>
+    <string name="geofence_not_available">GeoFence not available</string>
+    <string name="geofence_too_many_geofences">Too many GeoFences</string>
+    <string name="geofence_too_many_pending_intents">Too many pending intents for GeoFence</string>
+    <string name="unknown_geofence_error">Unknown error geofence</string>
+
+
+</resources>

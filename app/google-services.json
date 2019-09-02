@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620560542142",
+    "firebase_url": "https://isep-todo.firebaseio.com",
+    "project_id": "isep-todo",
+    "storage_bucket": "isep-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620560542142:android:31bc65c4b760b3a6",
+        "android_client_info": {
+          "package_name": "com.isep.simov.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620560542142-f72m8bomdufc0gmf0pr0oukoil4f7qog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZNY0KNbRsbnSlm_BnFTw72QtFz257y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620560542142-f72m8bomdufc0gmf0pr0oukoil4f7qog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
